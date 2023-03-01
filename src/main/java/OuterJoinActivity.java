@@ -93,7 +93,7 @@ public class OuterJoinActivity {
          * exists for a class, a row with a NULL student will be in the resulting query.
          * Hint: You should start with "SELECT * FROM class"
          */
-
+ 
         String sql = FileUtil.parseSQLFile("problem1.sql");
 
 
